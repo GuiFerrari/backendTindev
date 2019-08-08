@@ -1,4 +1,6 @@
-![Logo Tindev Backend](https://i.imgur.com/VBOPoBK.png)
+<p align="center">
+  <img width="469" height="83" src="https://i.imgur.com/VBOPoBK.png">
+</p>
 
 # Project Title
 
